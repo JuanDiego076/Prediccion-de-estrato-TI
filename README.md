@@ -1,4 +1,4 @@
-# Clasificación Socioeconómica mediante Machine Learning 📊
+# Clasificación Socioeconómica mediante Machine Learning con base en el uso de servicios de telecomunicaciones 📊
 
 Este proyecto tiene como objetivo desarrollar un modelo predictivo capaz de clasificar el estrato socioeconómico de hogares basándose en variables demográficas y de equipamiento tecnológico. Es una herramienta clave para el análisis de segmentación y diseño de políticas públicas o estrategias de mercado.
 
